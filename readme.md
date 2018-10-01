@@ -91,6 +91,7 @@
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
+	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 - [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
 - [JVM](https://github.com/deephacks/awesome-jvm#readme)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
@@ -109,6 +110,7 @@
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 - [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google’s mobile SDK for crafting native interfaces on iOS and Android.
 
 
 ## Programming Languages
@@ -280,6 +282,7 @@
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
 	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
 	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
+	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
@@ -598,6 +601,7 @@
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 - [Humane Technology](https://github.com/engagingspaces/awesome-humane-tech#readme) - Open source projects that help improve society.
+- [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
 
 
 ## License
